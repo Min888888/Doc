@@ -20,3 +20,4 @@ export default defineConfig({
 })
 ```
 
+vite我爱你
